@@ -1,9 +1,8 @@
 {
-  "resumeData": 
+  "posts": [
     {
       "id": 1,
-      "title": "Post 1",
-      "body": "this is post one"      
+      "title": "Post 1"
     },
     {
       "id": 2,
